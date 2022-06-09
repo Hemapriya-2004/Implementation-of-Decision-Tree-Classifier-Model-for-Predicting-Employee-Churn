@@ -49,7 +49,7 @@ RegisterNumber:  212221230036
 
 ## Output:
 ![output](https://github.com/Hemapriya-2004/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/blob/e7c213d3639bf8e12bbfd806d5e660b65e0b01e0/5a.PNG)
-![output]()
+![output](https://github.com/Hemapriya-2004/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/blob/417bc0a163b037d50530a24dd5e00a55b2179f69/5b.PNG)
 ![output]()
 ![output]()
 ![output]()
